@@ -1,0 +1,29 @@
+{
+  "name": "how-does-it-load",
+  "version": "1.0.0",
+  "authors": [
+    "mathieu-pousse <mathieu.pousse@zenika.com>"
+  ],
+  "description": "try to understand how webcomponents behave during the page load",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "webcomponents",
+    "polymer"
+  ],
+  "license": "MIT",
+  "homepage": "www.void.noway",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "webcomponentsjs": "~0.5.1",
+    "polymer": "~0.5.1"
+  }
+}
